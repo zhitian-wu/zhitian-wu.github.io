@@ -1,6 +1,6 @@
 ## My background
 
-I am currently a 1st year Master Animal Sciences student in Wageningen University & Research. Before coming to the Netherlands, I studied in Huazhong Agricultural University, and completed a bioinformatics bachelor's degree. I like to use Unix tools, exploring bioinformtics algorithms, data visualization, genetics, history, etc. I recently realized how computers have changed our world.
+I am currently a 1st year Master Animal Sciences student in Wageningen University & Research. Before coming to the Netherlands, I studied in Huazhong Agricultural University, and completed a bioinformatics bachelor's degree. I like to use Unix tools, explore bioinformtics algorithms, data visualization, genetics, history, etc. My dream is to integrate computer tools in conserving endangered species.
 
 I am a solitary person because I was influenced by my parents and don't enjoy social activities. On the contrary, I enjoyed asking questions about why things are in the way they are.
 
